@@ -114,7 +114,7 @@ export const Home = () => {
             <h1 className="logo-text">Madras Acoustics</h1>
             <h3>Sound Proofing | Space | Design</h3>
             <h2>ABOUT US</h2>
-            <h3 className="home-about"></h3>
+            {/* <h3 className="home-about"></h3> */}
 
             <p>
               At Madras Acoustics, we craft immersive soundscapes and exceptional audiovisual environments. Since 2020,

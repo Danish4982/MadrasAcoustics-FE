@@ -12,7 +12,7 @@ import { Home } from "./Component/Home/Home";
 function App() {
   return (
     <>
-    <BrowserRouter basename="/medrasacoustics-FE/home">
+    <BrowserRouter basename="/medrasacoustics-FE/">
   <Header />
   <Routes>
     <Route path="/" element={<Home />} />

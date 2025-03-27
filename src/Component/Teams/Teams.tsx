@@ -46,10 +46,9 @@ export const Teams: React.FC = () => {
         </div>
         <div className="about-text">
           <h2>ABOUT US</h2>
-          <div className="underline"></div>
           <p>
            Madras Acoustics - craft immersive soundscapes and exceptional audiovisual environments. Since 2020, 
-                    our expertise has shaped over 100 world-class projects — from professional music studios and concert auditoriums to 
+                    our expertise has shaped over 100 world-class projects from professional music studios and concert auditoriums to 
                     luxury hotels, vibrant nightclubs, and elite home cinemas.
 
                     Our globally experienced team combines creativity and technical precision to deliver customized installations 
