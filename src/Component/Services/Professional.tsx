@@ -38,8 +38,7 @@ export const Professional = () => {
         <div className="service-section">
           <div className="service-content">
             <h2>Professional Services</h2>
-            <div className="underline"></div>
-            <p>
+              <p>
               Madras Acoustics fine-tunes audio systems for clear, immersive sound by optimizing them to the room’s acoustics. Using advanced tools, we analyze sound behavior, assess speaker interactions, and enhance performance.<br /><br />
               Finally, tonal shaping — is where our expertise shines. Through meticulous adjustments and expert listening, we unlock the system's full potential, ensuring the sound feels natural, engaging, and immersive. This is where the magic happens — allowing you to fully enjoy the music, dialogue, or soundtrack without distraction.
             </p>
